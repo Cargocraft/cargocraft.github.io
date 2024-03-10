@@ -1,6 +1,24 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+# Важные страницы:
+
+* [Ссылки на загрузку модпака]()
+* [Ссылки на все адекватные лаунчеры]()
+
+# Инструкции по установке:
+
+Официально поддерживаются лишь PrismLauncher и AstralPrism, помощь по другим лаунчерам придётся спрашивать в чате Telegram.
+
+* [Инструкция по установке на PrismLauncher и AstralPrism](install_prism)
+* [Инструкция по установке на Theseus (Modrinth лаунчер) и AstalRinth](install_mr)
+* [Инструкция по установке на TLauncher, Titan Launcher, etc]()
+* [Самые частые проблемы]()
+
+# Ссылки на гайд по главам модпака:
+
+- [Первая глава]()
+- [Вторая глава]()
+- [Третья глава]()
+    - [Третья глава. Дополнение]()
