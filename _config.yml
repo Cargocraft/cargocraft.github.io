@@ -1,0 +1,10 @@
+title: Вики по модпаку
+description:
+url: "https://cargocraft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  Cargocraft
+
+# Build settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
